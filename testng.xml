@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"[]>
+<suite name="Workday scripts Execution" verbose="0" parallel="tests" thread-count="2">
+  <test name="Running scripts On Firefox for Mobile">
+    <parameter name="browser" value="chrome" />
+    <parameter name="browser_version" value="62" />
+    <parameter name="os" value="Windows" />
+    <parameter name="os_version" value="7" />
+    <parameter name="view" value="Web" />
+    <!-- <groups>
+			<run>
+			
+				<include name="CreateNewOrganization"/>
+				<include name="Superuser"/>
+			
+
+			</run>
+		</groups> -->
+    <classes>
+      <class name="com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow" />
+      <!--  		<class name="com.FordFoundation.Fluxx.Flux_Testcases_ValidatingFields"/>  -->
+    </classes>
+    <!-- <packages>
+			<package name="com.FordFoundation.Fluxx" />
+		</packages> -->
+  </test>
+</suite>

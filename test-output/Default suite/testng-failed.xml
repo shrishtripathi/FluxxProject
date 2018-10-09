@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.FordFoundation.Fluxx.Flux_Testcases_Sample">
+        <methods>
+          <include name="Grantee_formfilling"/>
+          <include name="launchford_SuperUser"/>
+          <include name="launchflux_grantsManager"/>
+          <include name="first"/>
+          <include name="Create_NewOrg_PO"/>
+          <include name="launchflux_GPU"/>
+        </methods>
+      </class> <!-- com.FordFoundation.Fluxx.Flux_Testcases_Sample -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

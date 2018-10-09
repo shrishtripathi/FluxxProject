@@ -1,0 +1,100 @@
+{
+  "chartDatas": [
+    {
+      "serieses": [
+        {
+          "name": "Min of currAddQuestion",
+          "points": [
+            {
+              "x": 1445212800000,
+              "y": 0,
+              "total": 0
+            },
+            {
+              "x": 1445299200000,
+              "y": 0,
+              "total": 0
+            },
+            {
+              "x": 1445385600000,
+              "y": 0,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Max of currEqualsQuestion",
+          "points": [
+            {
+              "x": 1445212800000,
+              "y": 445566,
+              "total": 0
+            },
+            {
+              "x": 1445299200000,
+              "y": 0,
+              "total": 0
+            },
+            {
+              "x": 1445385600000,
+              "y": 0,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Average of currSubtractsQuestion",
+          "points": [
+            {
+              "x": 1445212800000,
+              "y": 6011296664171673,
+              "total": 0
+            },
+            {
+              "x": 1445299200000,
+              "y": 0,
+              "total": 0
+            },
+            {
+              "x": 1445385600000,
+              "y": 0,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Sum of currEqualsQuestion",
+          "points": [
+            {
+              "x": 1445212800000,
+              "y": 557889,
+              "total": 0
+            },
+            {
+              "x": 1445299200000,
+              "y": 0,
+              "total": 0
+            },
+            {
+              "x": 1445385600000,
+              "y": 0,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

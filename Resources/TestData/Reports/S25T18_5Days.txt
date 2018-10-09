@@ -1,0 +1,114 @@
+{
+    "chartDatas": [
+        {
+            "serieses": [
+                {
+                    "name": "*default 1*",
+                    "points": [
+                        {
+                            "x": 1443657600000,
+                            "y": 3,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "totalCount",
+                    "points": [
+                        {
+                            "x": 1443657600000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "emptyCount",
+                    "points": [
+                        {
+                            "x": 1443657600000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "6011144615423985",
+                    "points": [
+                        {
+                            "x": 1443657600000,
+                            "y": 1,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Salih",
+                    "points": [
+                        {
+                            "x": 1443657600000,
+                            "y": 1,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "totalCount",
+                    "points": [
+                        {
+                            "x": 1443657600000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "emptyCount",
+                    "points": [
+                        {
+                            "x": 1443657600000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "6011144615423985",
+                    "points": [
+                        {
+                            "x": 1445212800000,
+                            "y": 1,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Salih",
+                    "points": [
+                        {
+                            "x": 1445212800000,
+                            "y": 1,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

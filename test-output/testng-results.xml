@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Workday scripts Execution" duration-ms="385410" started-at="2018-09-24T11:21:10Z" finished-at="2018-09-24T11:27:36Z">
+    <groups>
+    </groups>
+    <test name="Running scripts On Firefox for Mobile" duration-ms="385410" started-at="2018-09-24T11:21:10Z" finished-at="2018-09-24T11:27:36Z">
+      <class name="com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow">
+        <test-method status="PASS" signature="first(org.testng.ITestContext)[pri:0, instance:com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow@2173f6d9]" name="first" is-config="true" duration-ms="33" started-at="2018-09-24T16:51:10Z" finished-at="2018-09-24T16:51:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@753650c1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first(org.testng.ITestContext, java.lang.String)[pri:0, instance:com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow@2173f6d9]" name="first" is-config="true" duration-ms="31" started-at="2018-09-24T16:51:10Z" finished-at="2018-09-24T16:51:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@753650c1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="reportHeader(java.lang.reflect.Method, org.testng.ITestContext, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow@2173f6d9]" name="reportHeader" is-config="true" duration-ms="4774" started-at="2018-09-24T16:51:10Z" finished-at="2018-09-24T16:51:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow.Fluxx_Grant_Creation(java.lang.String) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@753650c1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[62]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportHeader -->
+        <test-method status="PASS" signature="Fluxx_Grant_Creation(java.lang.String)[pri:0, instance:com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow@2173f6d9]" name="Fluxx_Grant_Creation" duration-ms="380599" started-at="2018-09-24T16:51:15Z" finished-at="2018-09-24T16:57:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fluxx_Grant_Creation -->
+        <test-method status="PASS" signature="tearDown(java.lang.String)[pri:0, instance:com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow@2173f6d9]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-09-24T16:57:36Z" finished-at="2018-09-24T16:57:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="close(java.lang.String)[pri:0, instance:com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow@2173f6d9]" name="close" is-config="true" duration-ms="1" started-at="2018-09-24T16:57:36Z" finished-at="2018-09-24T16:57:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="FAIL" signature="first1(org.testng.ITestContext, java.lang.String, java.lang.String)[pri:0, instance:com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow@2173f6d9]" name="first1" is-config="true" duration-ms="0" started-at="2018-09-24T16:57:36Z" finished-at="2018-09-24T16:57:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@753650c1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Web]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.nio.file.NoSuchFileException">
+            <message>
+              <![CDATA[C:\FordFoundation\FordFoundation\Binaries\SeleniumFlag.rxlog.data]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.nio.file.NoSuchFileException: C:\FordFoundation\FordFoundation\Binaries\SeleniumFlag.rxlog.data
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source)
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(Unknown Source)
+	at java.nio.file.Files.newOutputStream(Unknown Source)
+	at java.nio.file.Files.write(Unknown Source)
+	at com.jacada.accelerators.TestEngine.createRxLogFile(TestEngine.java:336)
+	at com.jacada.accelerators.TestEngine.first1(TestEngine.java:329)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.afterRun(TestRunner.java:1014)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:38)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:382)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.nio.file.NoSuchFileException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first1 -->
+      </class> <!-- com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow -->
+    </test> <!-- Running scripts On Firefox for Mobile -->
+  </suite> <!-- Workday scripts Execution -->
+</testng-results>

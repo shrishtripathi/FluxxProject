@@ -1,0 +1,124 @@
+{
+    "chartDatas": [
+        {
+            "serieses": [
+                {
+                    "name": "Red_ADD",
+                    "points": [
+                        {
+                            "x": 1445126400000,
+                            "y": 1,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Red_Add",
+                    "points": [
+                        {
+                            "x": 1445126400000,
+                            "y": 1,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "totalCount",
+                    "points": [
+                        {
+                            "x": 1445126400000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "emptyCount",
+                    "points": [
+                        {
+                            "x": 1445126400000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "Red",
+                    "points": [
+                        {
+                            "x": 1445126400000,
+                            "y": 3,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Green",
+                    "points": [
+                        {
+                            "x": 1445126400000,
+                            "y": 3,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "totalCount",
+                    "points": [
+                        {
+                            "x": 1445126400000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "emptyCount",
+                    "points": [
+                        {
+                            "x": 1445126400000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "totalCount",
+                    "points": [
+                        {
+                            "x": 1445644800000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "emptyCount",
+                    "points": [
+                        {
+                            "x": 1445644800000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

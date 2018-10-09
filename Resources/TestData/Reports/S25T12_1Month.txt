@@ -1,0 +1,46 @@
+{
+  "chartDatas": [
+    {
+      "serieses": [
+        {
+          "name": "Min of numAddQuestion"
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Max of numEqualsQuestion",
+          "points": [
+            {
+              "x": 1443657600000,
+              "y": 23432222,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Average of numSubtractsQuestion"
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Sum of numEqualsQuestion",
+          "points": [
+            {
+              "x": 1443657600000,
+              "y": 23432222,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

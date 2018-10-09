@@ -1,0 +1,2 @@
+2017-08-10 13:36:18-Forwarding getAlertText on session 4c07701b-e99f-45ca-8459-87b235ae0377 to remote--INFO -org.apache.http.impl.execchain.RetryExec:I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7056: The target server failed to respond
+2017-08-10 13:36:18-Forwarding getAlertText on session 4c07701b-e99f-45ca-8459-87b235ae0377 to remote--INFO -org.apache.http.impl.execchain.RetryExec:Retrying request to {}->http://127.0.0.1:7056

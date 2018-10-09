@@ -1,0 +1,2 @@
+2017-06-22 19:07:59-Forwarding quit on session 9c770d18-4fec-4483-8b93-b78941bf5c83 to remote--INFO -org.apache.http.impl.execchain.RetryExec:I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Connection reset
+2017-06-22 19:07:59-Forwarding quit on session 9c770d18-4fec-4483-8b93-b78941bf5c83 to remote--INFO -org.apache.http.impl.execchain.RetryExec:Retrying request to {}->http://127.0.0.1:7055

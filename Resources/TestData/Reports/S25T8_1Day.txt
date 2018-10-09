@@ -1,0 +1,60 @@
+{
+  "chartDatas": [
+    {
+      "serieses": [
+        {
+          "name": "Average of Currency2",
+          "points": [
+            {
+              "x": 1444521600000,
+              "y": 52,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Sum of Currency1",
+          "points": [
+            {
+              "x": 1444521600000,
+              "y": 70,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Max of Currency3",
+          "points": [
+            {
+              "x": 1444521600000,
+              "y": 123456789123456816,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Min of Currency3",
+          "points": [
+            {
+              "x": 1444521600000,
+              "y": -10,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

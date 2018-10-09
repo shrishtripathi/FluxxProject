@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" verbose="0" name="Failed suite [Failed suite [VisualIVR scripts Execution]]" parallel="tests">
+  <parameter name="view" value="Mobile"/>
+  <parameter name="os" value="Windows"/>
+  <parameter name="browser" value="Firefox"/>
+  <parameter name="os_version" value="7"/>
+  <parameter name="browser_version" value="34"/>
+  <test name="Running scripts On Firefox for Mobile(failed)(failed)" parallel="tests">
+    <parameter name="view" value="Mobile"/>
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="Firefox"/>
+    <parameter name="os_version" value="7"/>
+    <parameter name="browser_version" value="34"/>
+    <classes>
+      <class name="com.FordFoundation.Fluxx.Flux_Testcases_Sample">
+        <methods>
+          <include name="reportHeader"/>
+          <include name="tearDown"/>
+          <include name="launchford_Website" invocation-numbers="0"/>
+          <include name="first"/>
+          <include name="first"/>
+          <include name="first"/>
+          <include name="tearDownFirefox"/>
+          <include name="first1"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.FordFoundation.Fluxx.Flux_Testcases_Sample -->
+    </classes>
+  </test> <!-- Running scripts On Firefox for Mobile(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [VisualIVR scripts Execution]] -->

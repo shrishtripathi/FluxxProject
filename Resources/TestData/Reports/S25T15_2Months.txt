@@ -1,0 +1,80 @@
+{
+  "chartDatas": [
+    {
+      "serieses": [
+        {
+          "name": "Min of currAddQuestion",
+          "points": [
+            {
+              "x": 1443657600000,
+              "y": 789789,
+              "total": 0
+            },
+            {
+              "x": 1446336000000,
+              "y": 0,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Max of currEqualsQuestion",
+          "points": [
+            {
+              "x": 1443657600000,
+              "y": 963963,
+              "total": 0
+            },
+            {
+              "x": 1446336000000,
+              "y": 0,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Average of currSubtractsQuestion",
+          "points": [
+            {
+              "x": 1443657600000,
+              "y": 334440,
+              "total": 0
+            },
+            {
+              "x": 1446336000000,
+              "y": 0,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serieses": [
+        {
+          "name": "Sum of currEqualsQuestion",
+          "points": [
+            {
+              "x": 1443657600000,
+              "y": 1210764,
+              "total": 0
+            },
+            {
+              "x": 1446336000000,
+              "y": 0,
+              "total": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

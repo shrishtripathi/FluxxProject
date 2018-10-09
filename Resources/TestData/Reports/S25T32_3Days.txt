@@ -1,0 +1,94 @@
+﻿{
+    "chartDatas": [
+        {
+            "serieses": [
+                {
+                    "name": "Max of Number Input Question 1",
+                    "points": [
+                        {
+                            "x": 1447545600000,
+                            "y": 0,
+                            "total": 0
+                        },
+                        {
+                            "x": 1447632000000,
+                            "y": 1212121,
+                            "total": 0
+                        },
+                        {
+                            "x": 1447718400000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "Sum of Number Input Question 2",
+                    "points": [
+                        {
+                            "x": 1447545600000,
+                            "y": 192119,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "Average of Number Input Question 1",
+                    "points": [
+                        {
+                            "x": 1446336000000,
+                            "y": 267316,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "Min of Number Input Question 2",
+                    "points": [
+                        {
+                            "x": 1447545600000,
+                            "y": 0,
+                            "total": 0
+                        },
+                        {
+                            "x": 1447632000000,
+                            "y": 0,
+                            "total": 0
+                        },
+                        {
+                            "x": 1447718400000,
+                            "y": 0,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serieses": [
+                {
+                    "name": "Average of Number Input Question 2",
+                    "points": [
+                        {
+                            "x": 1446336000000,
+                            "y": 64039,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

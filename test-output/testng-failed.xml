@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" verbose="0" name="Failed suite [Workday scripts Execution]" parallel="tests">
+  <parameter name="view" value="Web"/>
+  <parameter name="os" value="Windows"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="os_version" value="7"/>
+  <parameter name="browser_version" value="62"/>
+  <test name="Running scripts On Firefox for Mobile(failed)" parallel="tests">
+    <parameter name="view" value="Web"/>
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="os_version" value="7"/>
+    <parameter name="browser_version" value="62"/>
+    <classes>
+      <class name="com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow">
+        <methods>
+          <include name="reportHeader"/>
+          <include name="Fluxx_Grant_Creation" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="first"/>
+          <include name="first"/>
+          <include name="first1"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.FordFoundation.Fluxx.Fluxx_Grantee_Grant_Approval_Workflow -->
+    </classes>
+  </test> <!-- Running scripts On Firefox for Mobile(failed) -->
+</suite> <!-- Failed suite [Workday scripts Execution] -->
